@@ -8,7 +8,7 @@ Rev 0.6 (2021-12-05)
 ![image](https://user-images.githubusercontent.com/917776/147685122-e8ca816f-77f5-4235-9ac9-7c02e546898e.png)
 ****
 
-### Fysetec's Spider v1.x/2.2
+### Fysetc's Spider v1.x/2.2
 This is an early draft and there will be another revision soon-ish (once I receive my board).
 
 Rev 0.1 (2021-12-15)
